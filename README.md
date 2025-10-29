@@ -118,7 +118,7 @@
 ## 📫 Contact Me
 
 - Discord: `withu300`
-- [Email](mailto:michel.adelino.tech@gmail.com)
+- [Email](mailto:micheladelino222@gmail.com)
 
 ---
 
