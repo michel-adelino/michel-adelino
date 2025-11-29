@@ -97,11 +97,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"/>
 </p>
 ---
-
-## 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 📫 Contact Me
