@@ -14,11 +14,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently looking for **new projects**
 - 🌱 I’m always learning and exploring new technologies
 - 🤝 I love collaborating and open source
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can code and drink coffee at the same time!
+- ⚡ Fun fact: I can code and drink coffee at the same time!😂
 
 ---
 
