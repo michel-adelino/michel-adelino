@@ -96,7 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"/>
 </p>
 ---
----
 
 <details>
   <summary>✨ Fun Quote</summary>
