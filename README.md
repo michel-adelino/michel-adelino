@@ -98,13 +98,6 @@
 ---
 ---
 
-## 📫 Contact Me
-
-- Discord: `withu300`
-- [Email](mailto:micheladelino222@gmail.com)
-
----
-
 <details>
   <summary>✨ Fun Quote</summary>
   
